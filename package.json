@@ -1,5 +1,5 @@
 {
-  "name": "metaid-cli",
+  "name": "@metaid/metaid-cli",
   "version": "0.0.1",
   "description": "A cli utility tool for metaidjs.",
   "type": "module",

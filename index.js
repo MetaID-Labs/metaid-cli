@@ -15,6 +15,7 @@ const ${entityName}Schema: EntitySchema = {
   versions: [
     {
       version: 1,
+      id: "", // the brfc id of the node
       body: [ // the body of the brfc node
 
       ]

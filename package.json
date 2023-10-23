@@ -1,18 +1,34 @@
 {
   "name": "metaid-cli",
   "version": "0.0.1",
+  "description": "A cli utility tool for metaidjs.",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc src"
   },
   "main": "index.js",
-  "bin":"./index.js",
+  "bin": "./index.js",
   "devDependencies": {
     "prettier": "^3.0.3",
     "vite": "^4.4.5"
   },
   "dependencies": {
     "inquirer": "^9.2.11"
+  },
+  "keywords": [
+    "MetaID",
+    "metaid",
+    "blockchain",
+    "DID protocol",
+    "mvc",
+    "Microvision Chain",
+    "MetaID-Labs"
+  ],
+  "author": "MetaID-Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaID-Labs/metaid-cli"
   }
 }
